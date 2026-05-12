@@ -126,7 +126,6 @@ print(f"F1: {result.f1:.4f}  AUROC: {result.roc_auc:.4f}  AUPRC: {result.avg_pre
 ├── evaluation_framework.py   # Main framework — all 8 evaluation phases
 ├── download_datasets.py      # Downloads 22 ODDS benchmark datasets
 ├── generate_figures.py       # Reproduces all publication figures
-├── setup_environment.sh      # Server environment setup (Linux/GPU)
 ├── requirements.txt          # Python dependencies
 ├── results/                  # Pre-computed results CSVs
 │   ├── baselines.csv
