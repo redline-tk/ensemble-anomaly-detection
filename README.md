@@ -18,7 +18,7 @@ We propose a heterogeneous ensemble framework for unsupervised anomaly detection
 - Weights detectors using an **NCL-inspired scheme** that penalises correlated detectors
 - Identifies through exhaustive search that a **compact 4-detector ensemble** {IsolationForest, INNE, HBOS, KNN} achieves 103% of full-ensemble AUPRC at 36% computational cost
 
-Evaluated on 22 ODDS benchmark datasets with Friedman–Nemenyi statistical testing.
+Evaluated on 21 ODDS benchmark datasets with Friedman–Nemenyi statistical testing.
 
 ## Key Results
 
