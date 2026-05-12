@@ -1,0 +1,27 @@
+{
+  "baselines_done": [
+    "pima",
+    "mammography",
+    "mnist",
+    "vertebral",
+    "wbc",
+    "arrhythmia",
+    "cardio",
+    "thyroid",
+    "musk",
+    "breastw",
+    "annthyroid",
+    "wine",
+    "letter",
+    "shuttle",
+    "glass",
+    "pendigits",
+    "ionosphere",
+    "vowels",
+    "satimage-2",
+    "speech",
+    "lympho",
+    "optdigits",
+    "satellite"
+  ]
+}

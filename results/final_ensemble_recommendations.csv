@@ -1,0 +1,6 @@
+ensemble,n,f1,auroc,auprc,cost_pct,recommended_for
+Full-11-EM,11,0.3112,0.8176,0.4371,100,Robustness baseline
+IF+INNE+HBOS+KNN,4,0.3009,0.8193,0.4501,36,Score quality / AUPRC
+IF+INNE+HBOS+KNN+MCD,5,0.3166,0.8219,0.4439,45,Binary classification / F1
+IF+HBOS+KNN,3,0.3016,0.8154,0.4458,27,Minimal resources
+IF+INNE+MCD,3,0.3199,0.8155,0.4379,27,High F1 at low cost
